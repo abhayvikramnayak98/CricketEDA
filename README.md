@@ -1,4 +1,4 @@
-# Analyzing India's Winning Streak Against SENA Countries in Cricket ODIs
+# Analysis of India’s Winning Streak in ODIs against SENA Countries
 
 ## Introduction
 
