@@ -1,6 +1,6 @@
 # Analysis of India’s Winning Streak in ODIs against SENA Countries
 
-<b> Skills: <b> NumPy, Pandas, MatPlotlib, MySQL
+<b> Skills: </b> NumPy, Pandas, MatPlotlib, MySQL
 
 ## Introduction
 
