@@ -1,5 +1,7 @@
 # Analysis of India’s Winning Streak in ODIs against SENA Countries
 
+<b> Skills: <b> NumPy, Pandas, MatPlotlib, MySQL
+
 ## Introduction
 
 Cricket, often referred to as the 'gentleman's game,' is not just a sport but an emotion for millions of fans around the world. In the One Day International (ODI) format, the rivalry between India and the SENA countries (South Africa, England, New Zealand, and Australia) has produced some of the most memorable and intense matches in cricket history. Over the years, India has seen remarkable success against these cricketing powerhouses.
