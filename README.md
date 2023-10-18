@@ -1,4 +1,4 @@
-# Analyzing India's Winning Streak Against SENA Countries in Cricket ODIs
+# Analysis of India’s Winning Streak in ODIs against SENA Countries
 
 ## Introduction
 
@@ -23,15 +23,15 @@ This dataset is a treasure trove of cricketing information, and it will serve as
 ## Project Workflow
 Our data analysis project will follow these key steps:
 
-1. Data Collection: We will obtain and clean the dataset, ensuring that it is ready for analysis.
+1. <b>Data Collection</b>: We will obtain and clean the dataset, ensuring that it is ready for analysis.
 
-2. Exploratory Data Analysis (EDA): We will perform EDA to gain insights into the dataset and identify initial trends and patterns.
+2. <b>Exploratory Data Analysis (EDA)</b>: We will perform EDA to gain insights into the dataset and identify initial trends and patterns.
 
-3. Statistical Analysis: This step involves in-depth statistical analysis of match statistics to uncover meaningful insights about India's performance against SENA countries.
+3. <b>Statistical Analysis</b>: This step involves in-depth statistical analysis of match statistics to uncover meaningful insights about India's performance against SENA countries.
 
-4. Data Visualization: We will create visualizations such as graphs, charts, and heatmaps to make the findings more accessible and comprehensible.
+4. <b>Data Visualization</b>: We will create visualizations such as graphs, charts, and heatmaps to make the findings more accessible and comprehensible.
 
-5. Conclusion and Recommendations: Based on our analysis, we will draw conclusions about India's winning streak against SENA countries and provide recommendations for future matches.
+5. <b>Conclusion and Recommendations</b>: Based on our analysis, we will draw conclusions about India's winning streak against SENA countries and provide recommendations for future matches.
 
 ## Get Involved
 We encourage cricket enthusiasts, data analysts, and sports aficionados to join us on this exciting journey of analyzing India's cricketing success. Your insights and contributions are valuable as we seek to understand the underlying factors that have led to India's winning streak against SENA countries.
